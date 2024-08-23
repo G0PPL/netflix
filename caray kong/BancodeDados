@@ -1,0 +1,14 @@
+
+class BancoDeDados 
+{
+
+  List<Usuario> usuario = new Lista<Usuario>();
+
+  public void AdicionarUsuarioAoBancoDeDados 
+    
+
+
+
+}
+
+
